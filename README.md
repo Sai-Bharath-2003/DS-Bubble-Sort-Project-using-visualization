@@ -1,4 +1,4 @@
-# DS-Bubble-Sort-Project-using-Vizuvalizaation
+# DS-Bubble-Sort-Project-using-visualization
 
 ![image](https://user-images.githubusercontent.com/90444465/187037719-bb1c5cb0-7b60-4eaf-bf90-d5431f30946d.png)
 
